@@ -8,7 +8,6 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Rule {
-    private final String name;
-    private final String condition;
-
+  private final String name;
+  private final String condition;
 }

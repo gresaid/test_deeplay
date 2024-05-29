@@ -8,8 +8,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Animal {
-    private final String weight;
-    private final String height;
-    private final String type;
-
+  private final String weight;
+  private final String height;
+  private final String type;
 }
